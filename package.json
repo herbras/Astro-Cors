@@ -1,6 +1,6 @@
 {
   "name": "astrocors",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "description": "CORS middleware for Astro.js applications",
   "type": "module",
   "main": "src/index.js",
