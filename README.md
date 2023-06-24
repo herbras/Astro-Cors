@@ -1,4 +1,4 @@
-# 🌟 AstroCors 🌟
+# 🧑‍🚀 AstroCors 🌟
 
 CORS middleware for Astro.js applications. 🚀
 
