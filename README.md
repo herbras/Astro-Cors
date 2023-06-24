@@ -13,11 +13,11 @@ npm install astrocors
 ## 🔧 Usage
 
 ```
-import { corsMiddleware } from 'astrocors;
+import { corsMiddleware } from "astrocors";
 ```
 
 Use it in your Astro.js application, in src/middleware.js
 
 ```
-export default corsMiddleware();
+export default corsMiddleware;
 ```
